@@ -12,7 +12,8 @@ environment:
 dependencies:
   # Utilities for generate ByteBuffer
   esc_pos_utils_plus: ^2.0.1+6
-  fluetooth: ^0.0.5
+  fluetooth: 
+    git: https://github.com/anhhtbk/fluetooth
   # Framework
   flutter:
     sdk: flutter

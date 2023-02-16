@@ -84,11 +84,12 @@ packages:
   fluetooth:
     dependency: "direct main"
     description:
-      name: fluetooth
-      sha256: "73acc3aaeece4040a2d099a1228221dd8e0826a67cd218ca57c8c3368e4f7f4a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.5"
+      path: "."
+      ref: HEAD
+      resolved-ref: ac61778dcea496f82ca12d4bbb3d9141e124db04
+      url: "https://github.com/anhhtbk/fluetooth"
+    source: git
+    version: "0.0.6"
   flutter:
     dependency: "direct main"
     description: flutter
